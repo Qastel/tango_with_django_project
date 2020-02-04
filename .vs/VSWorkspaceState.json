@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\rango",
+    "\\templates",
     "\\templates\\rango"
   ],
-  "SelectedNode": "\\rango\\admin.py",
+  "SelectedNode": "\\rango\\views.py",
   "PreviewInSolutionExplorer": false
 }
