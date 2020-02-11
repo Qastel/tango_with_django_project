@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\rango",
+    "\\tango_with_django_project",
     "\\templates",
-    "\\templates\\rango"
+    "\\templates\\rango",
+    "\\__pycache__"
   ],
-  "SelectedNode": "\\rango\\views.py",
+  "SelectedNode": "\\templates\\rango\\add_category.html",
   "PreviewInSolutionExplorer": false
 }
